@@ -1,0 +1,1 @@
+{"appid":"101256736","appkey":"3e67ff8e045c78a3ad05c80d402229c3","callback":"http://9jiujiu.com/inc/lib/oauth/qq/callback.php","storageType":"file","host":"localhost","user":"root","password":"root","database":"test","scope":"get_user_info,get_info","errorReport":true}

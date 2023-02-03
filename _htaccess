@@ -1,0 +1,9 @@
+RewriteEngine On
+ErrorDocument 404	/404.php
+
+#RewriteRule ^product/\S*/c-([0-9]+)/$				/rewrite/product.php?CateId=$1 [L]
+#RewriteRule ^product/\S*/c-([0-9]+)/p-([0-9]+).html$		/rewrite/product.php?CateId=$1&page=$2 [L]
+#RewriteRule ^product/\S*-([0-9]+).html$			/rewrite/product-detail.php?ProId=$1 [L]
+
+#RewriteRule ^about-us.html$					/rewrite/intro.php?AId=1 [L]
+#RewriteRule ^contact-us.html$					/rewrite/intro.php?AId=2 [L]

@@ -1,0 +1,2 @@
+手机端入口：https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxf2bd74751985d977&redirect_uri=http://9jiujiu.com/mobile/index.php?response_type=code&scope=snsapi_base&state=1#wechat_redirect
+采用微信获取用户信息接口，实际跳转到http://9jiujiu.com/mobile/index.php

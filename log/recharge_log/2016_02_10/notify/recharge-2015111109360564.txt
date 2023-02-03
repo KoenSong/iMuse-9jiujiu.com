@@ -1,0 +1,28 @@
+Array
+(
+    [discount] => 0.00
+    [payment_type] => 1
+    [subject] => 2015111109360564
+    [trade_no] => 2015111121001004770017633210
+    [buyer_email] => 15820227258
+    [gmt_create] => 2015-11-11 17:39:09
+    [notify_type] => trade_status_sync
+    [quantity] => 1
+    [out_trade_no] => 2015111109360564
+    [seller_id] => 2088021107541373
+    [notify_time] => 2016-02-10 21:03:38
+    [body] => 2015111109360564
+    [trade_status] => TRADE_FINISHED
+    [is_total_fee_adjust] => N
+    [total_fee] => 0.10
+    [gmt_payment] => 2015-11-11 17:39:16
+    [seller_email] => songf@9jiujiu.com
+    [gmt_close] => 2016-02-10 17:39:41
+    [price] => 0.10
+    [buyer_id] => 2088502764688776
+    [notify_id] => 0e8f8eda110fffe4f96a4ce26dd3842lxw
+    [use_coupon] => N
+    [sign_type] => MD5
+    [sign] => dba59e0ea6a6cb9d4ad4accd2ab1df7c
+)
+已充值成功！

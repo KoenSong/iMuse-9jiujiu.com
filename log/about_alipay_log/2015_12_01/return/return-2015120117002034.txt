@@ -1,0 +1,21 @@
+Array
+(
+    [buyer_email] => 13763357438
+    [buyer_id] => 2088502789235531
+    [exterface] => create_direct_pay_by_user
+    [is_success] => T
+    [notify_id] => RqPnCoPT3K9%2Fvwbh3InVZqGJjr9xL3mb2ajQmlNseJtUf8Pfh4QIxtL%2BUs7npy9pSMx6
+    [notify_time] => 2015-12-02 01:00:35
+    [notify_type] => trade_status_sync
+    [out_trade_no] => 2015120117002034
+    [payment_type] => 1
+    [seller_email] => songf@9jiujiu.com
+    [seller_id] => 2088021107541373
+    [subject] => 2015120117002034
+    [total_fee] => 0.01
+    [trade_no] => 2015120221001004530280157095
+    [trade_status] => TRADE_SUCCESS
+    [sign] => a10c49b3e637a88b3e98ddd5679c01e5
+    [sign_type] => MD5
+)
+已付款成功！

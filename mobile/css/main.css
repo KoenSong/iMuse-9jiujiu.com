@@ -1,0 +1,37 @@
+body,button, input, select, textarea,h1 ,h2, h3, h4, h5, h6 { font-family: Microsoft YaHei,'宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;color:#939393;}
+.comWidth{width:100%;}
+
+.ul-ol-dd-clear{list-style-type:none; margin-left:0; padding-left:0; }
+a:hover{text-decoration: none;}
+.b{font-weight: bold; }
+.non-zone{padding: 0px; margin:0px; }
+.h10{height: 10px; }
+.l{float:left;}
+.r{float:right;}
+/*遮盖层*/
+.cover-div{position: fixed; left: 0px; width: 100%; background: rgba(0, 0, 0, 0.8); top: 0px; }
+
+/*头部*/
+body{padding-top:50px;}
+.brand-diy{font-size:20px;}
+.navbar{margin-bottom: -20px;}
+.banner img{width:100%;//height:150px;}
+.tapBg{//display:block; border-radius: 5px; background: #AFA6A6}
+/*头部 标签栏*/
+.idx-guide{padding:20px 20px;margin-bottom: 25px;}
+.idx-guide .idx-col{float:left; width:30%; margin-left:3%; text-align:center; }
+.idx-gly{font-size: 28px;color: #ff946e;}
+.idx-span{font-size:12px; margin-left: 3px;}
+.login-btn{float: right; font-size: 12px; margin: 10px 5px 0px 0px;}
+/*尾部版权*/
+.footer{width:100%; height:350px; background-color:#505050; text-align:center; }
+.footer-logo{width:23%; margin: 20px 0px 10px 0px; }
+.logo-bottom{width:90%; border-bottom: 1px solid rgba(255,255,255,.5); margin-top: 10px; margin:auto; }
+.footer-info{margin: 0px auto; display: block; width: 60%; height: 35px; margin-top: 25px; }
+.footer-info li{float:left; list-style: none; width: 33%; font-size: 15px; line-height: 1; font-weight:bold;text-align: center;}
+.footer-info li a{color:#FFF; }
+.footer-phone{font-size: 18px; font-weight: bold; color:#FFF; }
+.footer-time{font-size:12px; color:#CCC; }
+.footer-pinfo{font-size: 12px; padding: 2px; }
+.footer-copy{font-size: 12px; color:#FFF; margin:20px; font-weight: bold; }
+.footer-add{font-size: 12px; color:#FFF; font-weight: bold; }

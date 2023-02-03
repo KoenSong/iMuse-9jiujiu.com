@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+<style>
+.wrapper{
+	display: -webkit-flex-box;text-align:center;box-pack: center;box-align: center;}
+.wrapper li{
+	list-style:none;
+}
+.main{background:deepskyblue}
+.aside-1{background:gold}
+.aside-2{background:hotpink}
+
+
+.main{-webkit-flex-box:2;}
+.aside-1{order:1;-webkit-flex-box:1;}
+.main{order:2}
+.aside-2{order:3;-webkit-flex-box:1}
+
+
+.job {
+            display: -webkit-box;
+            display: flexbox;
+            -webkit-box-pack: center;
+            margin-top:100px;
+            //transform: translate3d(0,50px,0);
+            //border: #CCC 1px solid;
+        }
+ 
+            .job .job_ch {
+                flex: 1;
+                -webkit-box-flex:1;
+                border: red 1px solid;
+            }
+ 
+            .job .job_ch_left {
+                flex: 2;
+                -webkit-box-flex: 2;
+                border: yellow 1px solid;
+            }
+
+            .job .job_ch_left1 {
+                flex: 1;
+                -webkit-box-flex: 1;
+                border: blue 1px solid;
+            }
+</style>
+</head>
+<body>
+<!--<ul class="wrapper">
+	  
+	  <li class="main">
+	    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>  
+	  </li>
+	  <li class="aside aside-1">Aside 1</li>
+	  <li class="aside aside-2">Aside 2</li>
+	</ul>-->
+<ul class="job">
+    <li class="job_ch"></li>
+    <li class="job_ch_left"></li>
+    <li class="job_ch_left1"></li>
+</ul>
+</body>
+</html>
